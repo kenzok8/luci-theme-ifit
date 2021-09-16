@@ -1,4 +1,4 @@
-# LuCI Theme Infinity Freedom
+# LuCI Theme ifit
 # Copyright 2020 Richard Yu <xiaoqingfengatgm@gmail.com>
 #
 # Licensed under the Apache License v2.0
