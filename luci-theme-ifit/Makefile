@@ -9,7 +9,6 @@ THEME_TITLE:=ifit
 
 PKG_NAME:=luci-theme-$(THEME_NAME)
 PKG_VERSION:=1.6
-
 PKG_RELEASE:=1
 
 include $(INCLUDE_DIR)/package.mk
