@@ -1,7 +1,7 @@
 # luci-theme-ifit
 
 
-原作者 https://github.com/xiaoqingfengATGH/luci-theme-infinityfreedom
+##### [原作者](https://github.com/xiaoqingfengATGH/luci-theme-infinityfreedom)
 
 觉得名字太长，修改了下，并修复了不能修改主机名的错误！
 
